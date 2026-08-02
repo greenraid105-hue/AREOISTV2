@@ -1,5 +1,5 @@
 {
-  "maintenance_mode": true,
+  "maintenance_mode": false,
   "maintenance_message": "this app is closed please update to 0.3 ",
   "min_version": "0.2"
 }
