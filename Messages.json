@@ -12,5 +12,12 @@
     "body": "Please make sure you're on update 1.2 all the apps below 1.2 will be  disabled in the next few weeks",
     "timestamp": 1785963447817,
     "priority": 0
+  },
+  {
+    "id": "c3400f34-5cdd-4500-920d-6fb9cd43a156",
+    "title": "update to 1.3",
+    "body": "i fixed the favorites and epg bug please let me know if you see other bugs ",
+    "timestamp": 1786055585805,
+    "priority": 0
   }
 ]
