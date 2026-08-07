@@ -26,5 +26,12 @@
     "body": "update to 1.3 to see the fixes go to settings and then scroll until you see 1.2 then click it for update thanks ",
     "timestamp": 1786055710419,
     "priority": 0
+  },
+  {
+    "id": "6e6cf664-1134-4978-92ee-c9a10ecff982",
+    "title": "1.3",
+    "body": "Version 1.3 is now live! \n\n• TV Guide \/ EPG: Resolved guide data loading errors and sync bugs for seamless channel scheduling.\n• Stability: Improved backend performance for smoother viewing.\n\nThank you for streaming with us!",
+    "timestamp": 1786066573649,
+    "priority": 0
   }
 ]
